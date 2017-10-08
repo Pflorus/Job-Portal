@@ -58,3 +58,6 @@ Job Portal (PHP) - Part 25 - Admin Panel (Series Completed) - https://youtu.be/F
 # Contact
 Feel free to contact me through my website http://learningfromscratch.online/ 
 >If you are following this tutorial series I would appritiate if you can subscribe and like my videos as it will keep me motivated to share my knowledge with you all!
+
+# Contribution
+Some Validations Added By Gunesh Shanbhag (gshanbhag525)
